@@ -37,7 +37,7 @@ plot(rf)
 ### from the plot 80 trees or 100 trees seems to be the optimal tree used in rf model
 
 ## tuning rf model
-NewRF <- tuneRF(train[-10], train[10], stepFactor =  1, plot = TRUE, ntreeTry = 60, trace =  TRUE, improve = 0.05)
+NewRF <- tuneRF(train[-10], train[10], stepFactor =  1, plot = TRUE, ntreeTry = 90, trace =  TRUE, improve = 0.05)
 
 # plot histogram Number of Nodes in trees
 hist(treesize(rf), main = "Nodes of Random Forest")
