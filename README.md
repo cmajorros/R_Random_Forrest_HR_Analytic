@@ -14,3 +14,6 @@ This model aim to predict who is going to leave the company. I applied Random Fo
 
 From the result, I think the model is quite accurate without tuning the model because statistical measurement was satisfy and tuning does not improve the value so much. 
 However, I have not added other kind of model like logistic regression and decision tree and compare the result among all models yet.  
+
+Have a nice day
+Ros
