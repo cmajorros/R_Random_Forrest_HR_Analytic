@@ -12,5 +12,5 @@ This model aim to predict who is going to leave the company. I applied Random Fo
 7) plot the size of nodes are commonly used in each trees
 8) Investigate the importance of each varible.
 
-From the result, I think the model is quite accurate without tuning the model. but I have add this step in my works to make it easier to 
-following in case of the the result is produce lower accuracy.
+From the result, I think the model is quite accurate without tuning the model because statistical measurement was satisfy and tuning does not improve the value so much. 
+However, I have not added other kind of model like logistic regression and decision tree and compare the result among all models yet.  
